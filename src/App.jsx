@@ -11,7 +11,7 @@ import CondicionalComIf from './components/basicos/CondicionalComIf';
 
 export default props => (
     <div className="App">
-        <Card titulo="#06 - Condicional v2">
+        <Card titulo="#06 - Condicional v2" color="#FA6900">
         <Condicional numero = {10}></Condicional>
         </Card>
         <Card titulo="#05 - Condicional v1">
